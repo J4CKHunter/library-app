@@ -1,0 +1,11 @@
+
+/api/v1/book -> post
+{
+    "title": "deneme",
+    "authorName": "test",
+    "bookStatus": "READ",
+    "publisher": "testing",
+    "lastPageNumber": 5,
+    "categoryId": 3,
+    "totalPage": 120
+}
