@@ -15,4 +15,5 @@ public class GenericException extends RuntimeException{
 
     private HttpStatus httpStatus;
     private ErrorCode errorCode;
+    private String errorMessage;
 }
